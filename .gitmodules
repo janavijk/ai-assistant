@@ -1,0 +1,3 @@
+[submodule "starship-ai"]
+	path = starship-ai
+	url = https://gitlab.atds.int.net.nokia.com/pathfinder/starship-ai.git
